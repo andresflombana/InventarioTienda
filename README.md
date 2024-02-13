@@ -59,7 +59,7 @@ Este programa fue construido con Java
 
 ## Autor/es
 
-* **Andrés Lombana - Sebsatián Moreno** 
+* **Andrés Lombana - Sebastián Moreno** 
 
 ## Licencia
 
