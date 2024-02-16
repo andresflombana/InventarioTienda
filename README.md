@@ -40,10 +40,10 @@ No se requiere instalación adicional para este programa.
 ```
 Para usar este programa de manera efectiva, el usuario podría seguir estos pasos:
 ```
-*4. Agregar Producto:*
-Seleccione la opción "1.Agregar un Producto".
-Ingrese el ID del producto
-Ingrese el precio del producto
+    *4. Agregar Producto:*
+    Seleccione la opción "1.Agregar un Producto".
+    Ingrese el ID del producto
+    Ingrese el precio del producto
 Ingrese el nombre del producto
 Ingrese la cantidad del producto
 Confirme la información y precione Enter.
