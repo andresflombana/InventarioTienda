@@ -64,7 +64,7 @@ Para usar este programa de manera efectiva, el usuario podría seguir estos paso
     6. Salir del programa:
     Seleccione la opción "5. Salir" para salir del programa.
 
-*Repita estos pasos según sea necesario para *
+**Repita estos pasos según sea necesario para que el programa funcione como lo desea**
 
 ## Ejecutando las pruebas
 
