@@ -40,25 +40,29 @@ No se requiere instalación adicional para este programa.
 ```
 Para usar este programa de manera efectiva, el usuario podría seguir estos pasos:
 ```
-    *4. Agregar Producto:*
+    4. Agregar Producto:
     Seleccione la opción "1.Agregar un Producto".
     Ingrese el ID del producto
     Ingrese el precio del producto
-Ingrese el nombre del producto
-Ingrese la cantidad del producto
-Confirme la información y precione Enter.
-*5. Mostrar Inventario:*
-Seleccione la opción "2.Mostrar Inventario".
-Se mostrará una lista de todos los productos en el inventario con su ID, nombre, precio y cantidad.
-*6. Ordenar inventario por cantidad:*
-Seleccione la opción "3. Ordenar inventario por cantidad".
-El inventario se ordenará por la cantidad de productos de menor a mayor.
-*7. Eliminar Producto:*
-Seleccione la opción "4.Eliminar Producto".
-Ingrese el ID del producto que desea eliminar.
-Confirme la eliminación del producto.
-*6. Salir del programa:*
-Seleccione la opción "5. Salir" para salir del programa.
+    Ingrese el nombre del producto
+    Ingrese la cantidad del producto
+    Confirme la información y precione Enter.
+
+    5. Mostrar Inventario:
+    Seleccione la opción "2.Mostrar Inventario".
+    Se mostrará una lista de todos los productos en el inventario con su ID, nombre, precio y cantidad.
+    
+    6. Ordenar inventario por cantidad:
+    Seleccione la opción "3. Ordenar inventario por cantidad".
+    El inventario se ordenará por la cantidad de productos de menor a mayor.
+
+    7. Eliminar Producto:
+    Seleccione la opción "4.Eliminar Producto".
+    Ingrese el ID del producto que desea eliminar.
+    Confirme la eliminación del producto.
+    
+    6. Salir del programa:
+    Seleccione la opción "5. Salir" para salir del programa.
 
 *Repita estos pasos según sea necesario para *
 
