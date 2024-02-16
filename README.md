@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    💻
+    CÓDIGO DEL PROGRAMA EN RAMA "MASTER"
 </p>
 
 <p align="center">
